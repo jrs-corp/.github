@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - we are the JRS Corp
-🌈 Contribution guidelines - just message us for contributions
-👩‍💻 Useful resources - google
-🍿 Fun facts - JRS is a logistic company in Philippines
-🧙 Remember, you can do mighty things with the willpower
+🙋‍♀️ A short introduction - We are the JRS Corp <br />
+🌈 Contribution guidelines - Just message us for contributions <br />
+👩‍💻 Useful resources - Google <br />
+🍿 Fun facts - JRS is a logistic company in Philippines <br />
+🧙 Remember, you can do mighty things with the willpower <br />
 
